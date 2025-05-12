@@ -4,3 +4,5 @@ will add the next steps to this document from that branch. Au revoir! === Awesom
 now, having deleted *4m-*-main* branch. I now will save this file as the two current sentences are more than enough to ... 
 wait. I need to commit first from the main branch this file. Otherwise, I will just push a new file from this branch. I will 
 be back : I am checking out main, committing, and coming back
+===
+after checking out approve-andor-merge, and running git rebase main i have this file on the approve-andor-merge branch. Now, I am saving this file, committing it, pushing it, and then running pull request on github desktop, if not, on github.com, to see if i can close the pr from desktop andor phone. Lastly, do i merge a pr separately?
