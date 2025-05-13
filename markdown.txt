@@ -1,0 +1,11 @@
+# Markdown Test
+
+I am curious to see if Notion will pick up on the markdown from this txt file.
+
+My Goals (for this project):
+
+* Exercise my markdown muscle.
+* Exercise my vim muscle.
+* Go back to watching iOS vibe coding to stellar MRR yt video.
+
+Result: it worked!! They only problem is that to copy text from this file, I have to open it in nano (or another text editor) and copy from there.
