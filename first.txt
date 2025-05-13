@@ -1,2 +1,6 @@
 Push without https link
 Work on pull requests
+Creating a conflict in the same file using claude's exam instructions
+working with claude on conflict resolution.
+Deleted comments, left the text from both commits. See what happens.
+
